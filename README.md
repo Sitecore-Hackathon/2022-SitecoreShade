@@ -1,4 +1,4 @@
-![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
+![Hackathon Logo](images/hackathon.png?raw=true "Hackathon Logo")
 # Sitecore Hackathon 2022
 
 - MUST READ: **[Submission requirements](SUBMISSION_REQUIREMENTS.md)**
